@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NAV TAG</title>
+    <link rel="ICON" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE58nPBj6evSg-Odfu51Ehw1U371AK-YEUXw&usqp=CAU">
+</head>
+<body>
+    <pre>
+                <span>my faviourate movies of ram charan</span>
+
+    <nav>
+        <a href="#druva">1.druva</a>
+        <a href="#rrr">2.rrr</a>
+        <a href="#magadhera">3.magadhra</a>
+    </nav>
+
+    <span id="druva">druva</span>
+    <a href="druva.html"><img src="https://img1.hotstarext.com/image/upload/f_auto,t_vl/sources/r1/cms/prod/old_images/vertical/MOVIE/2697/1000192697/1000192697-v" height="300"></a>
+    <strong>rating=4.5</strong>
+
+    <SPan id="rrr">RRR</SPan>
+    <a href="rrr.html"><img src="https://m.media-amazon.com/images/M/MV5BODUwNDNjYzctODUxNy00ZTA2LWIyYTEtMDc5Y2E5ZjBmNTMzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" height="300">rating=4.0</a>
+    <strong>rating=4.0</strong>
+
+
+
+   <span id="magadhera">MAGADHERA</span>
+    <a href="magadhera.html"><img src="https://upload.wikimedia.org/wikipedia/en/c/ce/Magadheera_Poster.jpg" height="300"></a>
+    <strong>rating=3.5</strong>
+
+    </pre>
+    
+</body>
+</html>
+<style>
+    span{
+        font-size: 25px;
+    }
+</style>
